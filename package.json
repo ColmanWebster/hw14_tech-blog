@@ -26,12 +26,12 @@
     "jest": "^25.5.4"
   },
   "repository": {
-    "type": "git",
-    "url": 
+    "type": "git"
+     
   },
   "keywords": [],
   "bugs": {
-    "url": 
-  },
-  "homepage": 
+     
+  }
+   
 }
